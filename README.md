@@ -4,7 +4,7 @@ This project is a responsive product page for the Nike Air Jordan 6 Retro SP, cr
 
 ###-Hosted on: https://sachinmehar21.github.io/Nike-Jordan-6-Repo/
 
-#Table of Contents
+# Table of Contents
  • Installation
  • Features
  • Contributing
