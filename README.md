@@ -2,7 +2,7 @@
 
 This project is a responsive product page for the Nike Air Jordan 6 Retro SP, created using HTML and CSS. The design focuses on modern aesthetics and user-friendly interface, providing a seamless experience for users looking to explore and purchase the product.
 
-###-Hosted on: https://sachinmehar21.github.io/Nike-Jordan-6-Repo/
+### Hosted on: https://sachinmehar21.github.io/Nike-Jordan-6-Repo/
 
 # Table of Contents
  • Installation
